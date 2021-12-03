@@ -1,4 +1,4 @@
-# 2.12.2021
+# Day 2 - Dive!
 
 Now, you need to figure out how to pilot this thing.
 
