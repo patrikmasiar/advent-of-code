@@ -13,3 +13,5 @@ https://adventofcode.com/
 * 📅 **3.12.2021**
   * [Part 1](https://github.com/patrikmasiar/advent-of-code/blob/main/2021/day3/part1.java)
   * [Part 2](https://github.com/patrikmasiar/advent-of-code/blob/main/2021/day3/part2.java)
+* 📅 **6.12.2021 🎅🏼**
+  * [Part 1](https://github.com/patrikmasiar/advent-of-code/blob/main/2021/day6/part1.java)
