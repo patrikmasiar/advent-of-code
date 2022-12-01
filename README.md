@@ -5,6 +5,8 @@ https://adventofcode.com/
 
 ## Solutions 2022
 * 📅 **1.12.2022**
+  * [Part 1](https://github.com/patrikmasiar/advent-of-code/blob/main/2022/day1/part1.java)
+  * [Part 2](https://github.com/patrikmasiar/advent-of-code/blob/main/2022/day1/part2.java)
 
 ## Solutions 2021
 * 📅 **1.12.2021**
