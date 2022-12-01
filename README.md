@@ -4,7 +4,7 @@
 https://adventofcode.com/
 
 ## Solutions 2022
-* 📅 **1.12.2021**
+* 📅 **1.12.2022**
 
 ## Solutions 2021
 * 📅 **1.12.2021**
