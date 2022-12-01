@@ -3,7 +3,10 @@
 
 https://adventofcode.com/
 
-## Solutions 
+## Solutions 2022
+* 📅 **1.12.2021**
+
+## Solutions 2021
 * 📅 **1.12.2021**
   * [Part 1](https://github.com/patrikmasiar/advent-of-code/blob/main/2021/day1/part1.java)
   * [Part 2](https://github.com/patrikmasiar/advent-of-code/blob/main/2021/day1/part2.java)
